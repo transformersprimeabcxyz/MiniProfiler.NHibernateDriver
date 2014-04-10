@@ -1,0 +1,7 @@
+; top-most EditorConfig file
+root = true
+
+; Windows-style newlines with tabs
+[*]
+end_of_line = CRLF
+indent_style = tab
